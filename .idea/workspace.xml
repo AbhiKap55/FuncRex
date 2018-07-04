@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/LRex.py" line="109" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56aa1fab-616e-4fb2-9f11-114c6acbab8c" name="Default" comment="" />
+    <list default="true" id="56aa1fab-616e-4fb2-9f11-114c6acbab8c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/blablabla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blablabla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Begin.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +62,8 @@
       <file leaf-file-name="newwindowtest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newwindowtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+            <state relative-caret-position="141">
+              <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -68,8 +71,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blablabla.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blablabla.py">
+      <file leaf-file-name="Begin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Begin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="268">
               <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
@@ -119,6 +122,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -141,8 +147,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="70" />
+    <option name="x" value="86" />
+    <option name="y" value="61" />
     <option name="width" value="1260" />
     <option name="height" value="638" />
   </component>
@@ -262,7 +268,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blablabla.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Begin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +323,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="70" width="1260" height="638" extended-state="0" />
+    <frame x="-28" y="61" width="1260" height="638" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -556,7 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blablabla.py">
+    <entry file="file://$PROJECT_DIR$/Begin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
@@ -568,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newwindowtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="37" column="65" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+        <state relative-caret-position="141">
+          <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

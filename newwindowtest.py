@@ -29,7 +29,6 @@ class WindowNew(QtWidgets.QMainWindow):
         #font = QtGui.QFont("Calibri", 32)
         #lbl_Logo.setFont(font)
 
-
         btn_linrex = QtWidgets.QPushButton("<-- Launch LinRex", self)
         btn_linrex.clicked.connect(self.launch_linRex)
         btn_linrex.move(18, 180)
